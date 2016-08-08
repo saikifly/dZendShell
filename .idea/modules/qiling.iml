@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="qiling" external.linked.project.path="$MODULE_DIR$/../../qiling" external.root.project.path="$MODULE_DIR$/../../qiling" external.system.id="GRADLE" external.system.module.group="com.saikifly" external.system.module.version="0.1" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../qiling">
+      <excludeFolder url="file://$MODULE_DIR$/../../qiling/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../qiling/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
